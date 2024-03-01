@@ -1,0 +1,144 @@
+body{
+    min-width: 400px;
+    max-width: 500px;
+    color: #393d41;
+    font-size: 1.2rem;  
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.65;
+    text-align: center;
+}
+nav{
+    background-color: black;
+    text-align: center;
+    padding-top:3em;
+    padding-bottom:3em;
+}
+p   {
+    padding-right: 4.5em;
+    padding-left: 4.5em;
+}
+a{
+    color:white;
+}
+nav img{
+    width: 40%;
+}
+ header div{
+    
+    background-image: url(../images/banner.jpg);
+    background-position: center ;
+    background-size: cover;
+    height: 27em;
+    
+}
+header div h1{
+    font-weight: bold;
+    font-size: 2.6em;
+    line-height: 1;
+    color:#25a2c3; 
+    padding-top:1.8em;
+    padding-bottom:0.8em;
+}
+
+button{
+    background-color: #f04c2f ;
+    border-radius: 8%;
+    font-weight:800;
+    border:none;
+    color:white;
+    width: 13em;
+    height: 4em;
+    margin-top:4em; 
+}
+
+
+.titoli-articoli{
+    color:#25a2c3;
+    font-weight: bold;
+    padding-top:0.5em;
+}
+
+article > h1:first-of-type  {
+    padding-top:3.5em;
+}
+
+.p-articoli{
+    padding-top:0.4em;
+}
+
+#parto2-art{
+    margin-bottom:2.5em;
+}
+#part2-1-art img{
+    
+    border-radius: 50%;
+    max-width: 70%;
+}   
+
+#part-2-2-art{
+    background-color: #f04c2f ;
+    color:white;
+}
+ h2{
+    font-weight: bold;
+    font-size: 2em;
+    padding-top:1em;
+}
+
+#part-2-2-art > h2:first-of-type{
+    padding-top:1.2em;
+    
+}
+#part-2-2-art h2,p{
+    padding-bottom: 1em;
+}
+
+#testo-2-parte{
+    font-size: 1.2em;
+    padding-left:0px;
+    padding-right:0px;
+    font-style: italic;
+    
+}
+#footerino-main{
+    font-size:0.7em;
+    font-style:none;
+}
+.div-articoli img{
+    width: 100%;
+     
+}
+.div-articoli{
+    width: 90%;
+    margin-bottom:3em;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top:3em;
+    box-shadow: 0px 3px 5px rgb(0, 0, 0, 0.3);   
+}
+.div-articoli p{
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+
+}
+#last-div-art{
+    margin-bottom:4em;
+}
+footer{
+    color:white;
+    background-color: #25a2c3;
+}
+footer h2{
+    padding-bottom: 0.4em;
+}
+footer i{
+    margin-right:8px;
+}
+#foot-finale{
+    display:inline-block;
+    margin-top: 2.4em;
+    padding-top:1.5em;
+    border-top:1px solid white;
+    margin-bottom:4em;
+    font-size:medium;
+}
